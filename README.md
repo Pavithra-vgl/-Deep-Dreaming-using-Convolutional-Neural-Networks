@@ -4,7 +4,13 @@ This project was developed as part of the Machine Learning course at Hochschule 
 
 The project demonstrates how neural networks can be used not only for prediction but also for generating and transforming images.
 
----
+## Example Output
+
+| Original Image | Deep Dream Output |
+|---|---|
+| ![Original](image.jpg) | ![Deep Dream Output](dream_image.jpg) |
+
+> *The network amplifies patterns it learned during ImageNet training and notices how the image evolves into abstract, texture-rich visuals characteristic of the selected layer's features.*
 
 ## Academic Context
 
@@ -124,6 +130,7 @@ From the experiments:
 ## Conclusion
 
 This project demonstrates an alternative use of neural networks beyond classification.
+
 
 Key conclusions:
 
